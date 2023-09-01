@@ -42,3 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### Nice to meet you! Thank you or viewing my website.
 
 
+- We only meet once a week, but it has still helped me learn things about java
+- This homework is fun
+- The class is fun to go to, and I like being taught by TAs and not a normal professor, its a nice change.
+
